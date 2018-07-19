@@ -15,11 +15,11 @@ This button launches the Eclipse preference page for the plugin:
 ![Alt text](readme_images/PreferencesWindow.png?raw=true "Preference Window")
 
  
-| Preference | Used By |
+| Preference | Description | Used By |
 | --- | --- |
-| Wildfly Root | ![Alt text](readme_images/wildfly-configuration.ico?raw=true "Wildfly Deep Clean") ![Alt text](readme_images/wildfly-deployments.ico?raw=true "Wildfly Deep Clean") ![Alt text](readme_images/wildfly-standalone.ico?raw=true "Wildfly Deep Clean")|
-| Wildfly Clean Script | ![Alt text](readme_images/wildfly-clean.ico?raw=true "Wildfly Deep Clean")|
-| Backup Utility | ![Alt text](readme_images/backup.ico?raw=true "Backup Utility")|
+| Wildfly Root | Contains the root path of your Wildfly installation. | ![Alt text](readme_images/wildfly-configuration.ico?raw=true "Wildfly Deep Clean") ![Alt text](readme_images/wildfly-deployments.ico?raw=true "Wildfly Deep Clean") ![Alt text](readme_images/wildfly-standalone.ico?raw=true "Wildfly Deep Clean")|
+| Wildfly Clean Script | Contains the path of your script file for deep cleaning Wildfly. | ![Alt text](readme_images/wildfly-clean.ico?raw=true "Wildfly Deep Clean")|
+| Backup Utility | Contains the path to your backup utility (if you have one you want to use). | ![Alt text](readme_images/backup.ico?raw=true "Backup Utility")|
 
 # Wildfly Deep Clean
 
