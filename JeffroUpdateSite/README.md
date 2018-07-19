@@ -27,9 +27,9 @@ This button launches the Eclipse preference page for the plugin.
 
  |
 | Backup Utility |
- ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAhCAMAAAGOxdt+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFfUExURfLy8vDw8PX3/PT2/PP1/PL1/PL0+/H0+1FbZ/Dz+97h6GRlaBkaGxISE1xdYNnc48zW2ldhbOPm7TEyMwAAACssLeDj6jZBTy49Te/y+2FiZVVWWtzf43B/iu/y+srM0wEBAby/xcnX3218iO7x+uvu94GChxUWF1hZXHBxdrTEzlVlc+3x+np8gBgZGc3R2UhJS+nt9u3v8VpmdO3w+uXo8RQVFo6QlgQEBDc4OsjK0+bq7XqGkuzv+oOFi09QUzg4O1ptfEhWZuvv+TEyNBAQEcTI0KqstI6otztMXevu+QoKCy8wMjAxMz8/QpSvvTxNXuru+QwMDert+TIzNi8vMjAwMztNXunt+YaJkDo7PjhJWujs+ePm8xUVFqCjrKrI1XyCjejs+Hp8gjIzNXR6hufr+OTo9YGDihwdHgUFBTc4O8HEz+br+Obq+OXq+OXp9+Tp9+Po9+Pn9wAAABDQeE0AAAB1dFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJuw3uoAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAGOSURBVChThVI9awJBEB22Clo6YuAEiSlCSBE4BiyEFIHDQCCWEmxyxRWCsMX+f8h7s3vmIom++9iZebM7Ox8iQfABEsxMvqJGSQCtTpiYqknUnqAzITNs0AoOW6xwihILfCvf3vW0wlMRxqzR1QSn4tgJN1qngwM80DBWgd9xAHmFoTabNxX+0Jf8141WjAL9ibTqkfE20HHTCF1tgrjQPRo9AcaNKbkpoy/Cz1vu0eOqXo4uoB74jN/nvsqt28e8kfP3XF4U9x+7jvuzYquguoAkO6Q5pfPCd6AFEZkhlXyCzJDNp+rU9WjSIivKwJS8ZwUBgFTyP8HEsy/Fh2PfB4DWKPVFnKd/hqu0Ydr+eTN94ZHlzUBdH5jyAdXCgNAiI5S2yCxexh3niZ8cOUmORxLNfImyfvQ2qdsitWQrShgxjhAhb/uQp4gs4gbz+IWX7S5wyiJbl61ZaECi6Ns9u8QXMQfY5J50bBWlWHcPhcIhz9ks3kgX/wLptE5xxMn+/YwMDT11O9GjoIgpfQN8Sr1pK6fkNQAAAABJRU5ErkJggg==)
-
-
+ 
+![Alt text](/readme_images/backup.png?raw=true "Backup Utility")
+ 
  |
 
 # Wildfly Deep Clean
@@ -66,7 +66,7 @@ If you haven&#39;t defined the location of the Wildfly root, clicking the button
 
 # Backup Utility
 
-![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAaCAMAAAECpDdpAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAECUExURfT2/PP1/PL1/PL0+/H0+/Dz+97h6GRlaBkaGxISE1xdYNnc4+Pm7TEyMwAAACssLeDj6u/y+2FiZVVWWu/y+srM0wEBAby/xe7x+uvu94GChxUWF1hZXHBxdu3x+np8gBgZGc3R2UhJS+nt9u3w+uXo8RQVFo6QlgQEBDc4OsjK0+zv+oOFi09QUzg4O+vv+TEyNBAQEcTI0KqstOvu+QoKCy8wMjAxMz8/Quru+QwMDert+TIzNi8vMjAwM+nt+YaJkDo7Pujs+ePm8xUVFqCjrOjs+Hp8gjIzNefr+OTo9YGDihwdHgUFBTc4O8HEz+br+Obq+OXq+OXp9+Tp9wAAAAVdnVoAAABWdFJOU/////////////////////////////////////////////////////////////////////////////////////////////////////////////////8ASk1s2QAAAAlwSFlzAAAOxAAADsQBlSsOGwAAARpJREFUKFN1kTFrxDAMhY2H3NBGGUw5bsgQENzSxRyFju1QuqQUhP//b+l7UuxCj37hzn56tmXJydFNcjIRTdaaRghCVdLULOWAGh8WWcXaWAcON6tIxiYp3IvTZg4IzpYasNaXOiF0Fnl0qaqryFZxsFJlQY4Fu5FIPSP58PS/jEsEPKnDEwcuLiL7IXhZkTNGiCRSH+Q1nGeWViKtIuvOlS5w1eUQhlYEZrzPm8/PIQZpUhbO2ln8/xw3vgM97d90qrVMXdLByF/x1FIigHoYBis7VuiuEWAJ4OKdvCa9Ypg3j4WzI1CfOPv+wvTGGZxRK1qC9wAvDNIxdgss3XmHYXguWp8eOcBePhb+CE8eeKQ799Bh//7S2g/wzVO25ARHngAAAABJRU5ErkJggg==)
+![Alt text](/readme_images/backup.png?raw=true "Backup Utility")
 
 The &quot;Backup Utility&quot; button will open the backup utility that you&#39;ve defined.
 
