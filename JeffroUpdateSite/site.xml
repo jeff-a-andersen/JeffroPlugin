@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/JeffroFeature_1.0.0.201807181107.jar" id="JeffroFeature" version="1.0.0.201807181107">
+      <category name="jeffro_tools_suite"/>
+   </feature>
+   <category-def name="jeffro_tools_suite" label="Jeffro Tools Suite">
+      <description>
+         A suite of tools written by Jeff Andersen.
+      </description>
+   </category-def>
+</site>
