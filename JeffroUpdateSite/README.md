@@ -66,7 +66,7 @@ If you haven&#39;t defined the location of the Wildfly root, clicking the button
 
 # Backup Utility
 
-![Alt text](/readme_images/backup.png?raw=true "Backup Utility")
+![Alt text](readme_images/backup.png?raw=true "Backup Utility")
 
 The &quot;Backup Utility&quot; button will open the backup utility that you&#39;ve defined.
 
