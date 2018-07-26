@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/JeffroFeature_1.0.0.201807191326.jar" id="JeffroFeature" version="1.0.0.201807191326">
+   <feature url="features/JeffroFeature_1.0.0.201807261324.jar" id="JeffroFeature" version="1.0.0.201807261324">
       <category name="jeffro_tools_suite"/>
    </feature>
    <category-def name="jeffro_tools_suite" label="Jeffro Tools Suite">
